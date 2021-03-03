@@ -2,7 +2,7 @@
  Patricia Mercedes
  21/9/2003
  Garcia20376@iesmarenostrum.com
- 567936269
+ +34567936269
 
 # FORMACIÓN ACADEMICA 
  FPB Informatica 
