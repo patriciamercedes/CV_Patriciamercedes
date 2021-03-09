@@ -18,6 +18,8 @@ punto fuerte redes informaticas y diseño de vidos y webs
 # PROYECTOS PERSONALES
 #hice una web y muchos dibujos tecnicos en 4D
 
+[ver mis trabajos](./trabajos.md)
+
 # AFICIONES
 Dibujar y crear videos
 
