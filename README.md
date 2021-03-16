@@ -28,4 +28,6 @@ punto fuerte redes informaticas y diseño de vidos y webs
 # AFICIONES
 Dibujar y crear videos
 [ver mis videos](./videos.md)
+
+
 [ver mis videos](./fotos.md)
