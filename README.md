@@ -30,4 +30,4 @@ Dibujar y crear videos
 [ver mis videos](./videos.md)
 
 
-[ver mis videos](./fotos.md)
+[ver mis fotos](./fotos.md)
