@@ -1,5 +1,18 @@
 # Mis fotos
 ## foto 1 
-[mira foto]./https://github.com/patriciamercedes/CV_Patriciamercedes/commit/d5b615b080c26692655943a46d194374b6ea1f08#diff-35f60fbf2432f09c336a7069d2ef1a34668119690896fcbb03456a9ebc62cba1
+[mira foto](./WhatsApp Image 2020-12-04 at 09.40.17 (1).jpeg)
+
+## foto 2
+[mira foto](./WhatsApp Image 2020-12-04 at 09.40.22.jpeg)
+
+## foto 3
+[mira foto](./WhatsApp Image 2020-12-04 at 09.40.29.jpeg)
+
+## foto 4
+[mira foto](./WhatsApp Image 2020-12-04 at 09.40.30.jpeg)
+
+## foto 4
+[mira la foto](./WhatsApp Image 2020-12-04 at 09.43.39 (1).jpeg)
+
 
 
